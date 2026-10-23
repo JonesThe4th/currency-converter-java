@@ -48,7 +48,7 @@ public class AboutWindow extends JFrame {
             @Override
             public void mouseClicked(MouseEvent e) {
                 try {
-                    Desktop.getDesktop().browse(new URI("https://jyohana.framer.website/"));
+                    Desktop.getDesktop().browse(new URI("https://www.jyohana.framer.website/"));
                 } catch (Exception ex) {
                 	ex.printStackTrace();
                 }

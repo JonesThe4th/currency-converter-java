@@ -17,5 +17,3 @@ In this currency converter app, users are provided with an option to select the 
 
 
 visit more projects - https://jyohana.framer.website/
-
-
